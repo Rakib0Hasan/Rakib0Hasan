@@ -28,7 +28,7 @@ A solver application implementing backtracking algorithms.
 🔹 **Memory Matching Game**  
 A simple interactive game built for practice and fun.  
 
-🔹 **Student Course Management System**
+🔹 **Student Course Management System**  
 A simple project where I used Servlet with Hibernate :)
 
 
