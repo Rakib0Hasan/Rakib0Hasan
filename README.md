@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills & Technologies
 
-- **Languages**: Java, Python (basic), C (basic), SQL  
+- **Languages**: Java, Python (basic), C (basic), SQL, JavaScript(learning)  
 - **Backend**: Servlets, JSP, Hibernate ORM, JDBC, Spring Boot (learning)  
 - **Databases**: MySQL, PostgreSQL  
 - **Web**: HTML, CSS, JSTL  
